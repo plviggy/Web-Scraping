@@ -1,7 +1,7 @@
 ########   CODE TO WEBSCRAPE RENTAL CAR TAX INFORMATION    ########
 #Date: 2020/01/10
 #Time: 12:59 PM
-#Author: Viggy Palaniappan, Jacobs
+#Author: Viggy Palaniappan
 
 #Step-I Importing the modules required for the analysis
 import time
